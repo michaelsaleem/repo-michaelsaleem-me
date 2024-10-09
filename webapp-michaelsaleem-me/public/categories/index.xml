@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Myour - One Page Resume CV Hugo Theme</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://www.michaelsaleem.me/categories/</link>
     <description>Recent content in Categories on Myour - One Page Resume CV Hugo Theme</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
+    <language>en-gb</language>
     <lastBuildDate>Mon, 13 Jul 2020 13:06:26 +0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.michaelsaleem.me/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Documentation</title>
-      <link>http://localhost:1313/categories/documentation/</link>
+      <link>https://www.michaelsaleem.me/categories/documentation/</link>
       <pubDate>Mon, 13 Jul 2020 13:06:26 +0600</pubDate>
-      <guid>http://localhost:1313/categories/documentation/</guid>
+      <guid>https://www.michaelsaleem.me/categories/documentation/</guid>
       <description></description>
     </item>
     <item>
       <title>Development</title>
-      <link>http://localhost:1313/categories/development/</link>
+      <link>https://www.michaelsaleem.me/categories/development/</link>
       <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
-      <guid>http://localhost:1313/categories/development/</guid>
+      <guid>https://www.michaelsaleem.me/categories/development/</guid>
       <description></description>
     </item>
     <item>
       <title>Travel</title>
-      <link>http://localhost:1313/categories/travel/</link>
+      <link>https://www.michaelsaleem.me/categories/travel/</link>
       <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
-      <guid>http://localhost:1313/categories/travel/</guid>
+      <guid>https://www.michaelsaleem.me/categories/travel/</guid>
       <description></description>
     </item>
   </channel>

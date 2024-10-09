@@ -38,7 +38,7 @@ other = "Comments"
 other = "Full Name"
 
 [yourFullName]
-other = "ej.: Genoveva Lian Hullt"
+other = "e.g. John Smith"
 
 [emailAddress]
 other = "Email Address"
@@ -50,7 +50,7 @@ other = "example@domain.com"
 other = "Message"
 
 [yourMessage]
-other = "To Write"
+other = "Your Message"
 
 [sendMessage]
 other = "Send Message"

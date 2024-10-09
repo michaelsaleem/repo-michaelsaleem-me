@@ -6,20 +6,27 @@
 ### Hero Image 1 - 3 [ heroImage1Section, heroImage2Section, heroImage3Section ]
 hero_image1:
   enable: true
-  image: "images/man.jpg"
+  #image: "images/man1.jpg"
+  image: "images/20230731_114103.jpg"
 
 hero_image2:
   enable: true
-  image: "images/man2.jpg"
+  #image: "images/man2.jpg"
+  image: "images/20230731_114103.jpg"
 
 hero_image3:
   enable: true
-  image: "images/girl3.jpg"
+  #image: "images/girl3.jpg"
+  image: "images/20230731_114103.jpg"
 
 ### Hero Video
 hero_video:
   enable: true
-  video: "https://youtu.be/S4L8T2kFFck"
+  # video: "https://youtu.be/vtKXWn9IUL4"
+  #video: "https://youtu.be/YyhPNzXbM7s"
+  #video: "https://youtu.be/9wbTmtGr0IY"
+  video: "https://youtu.be/NMe71q_w-RU&loop=0"
+  # video: "https://youtu.be/S4L8T2kFFck"
 
 ### Hero Slider
 hero_slider:
@@ -32,12 +39,15 @@ hero_slider:
 ### Started [ startedSection ]
 started:
   enable: true
-  title: "Joé <br />Wilson"
+  title: "Michael <br />Saleem"
   typed:
-    - "Consultant and Mentor"
-    - "Web Designer"
-    - "Programmer"
-  text: "Hello! I am Web Developer from United States, New York. I have rich experience in web site design and building, also I am good at wordpress. I love to talk with you about our unique."
+    - "Network Security"
+    - "F5 BIG-IP Loadbalancers"
+    - "Palo Alto Next Generation Firewalls"
+    - "Cisco Firepower Next Generation Firewalls"
+    - "Cisco ASA Firewalls"
+  text: "Hello! I am a Network Security Engineer from the UK. <br />If you are interested in my skills, please reach out to me."
+  # text: "Hello! I am Web Developer from United States, New York. I have rich experience in web site design and building, also I am good at wordpress. I love to talk with you about our unique."
   button:
     text: "Contact Me"
     link: "#section-contacts"
@@ -45,8 +55,8 @@ started:
 ### About [ aboutSection ]
 about:
   enable: true
-  title: "About Me"
-  subtitle: "My story"
+  title: "About Myself"
+  subtitle: "Introduction"
   text: "<p>Pellentesque posuere. Praesent turpis. Aenean posuere, tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus. Donec elit libero, sodales nec, volutpat a, suscipit non, turpis.</p><p>Pellentesque posuere. Praesent turpis. Aenean posuere, tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus. Donec elit libero, sodales nec, volutpat a, suscipit non, turpis. Donec elit libero, sodales nec, volutpat a, suscipit non, turpis.</p>"
   list:
     - label: "Age"
@@ -69,7 +79,7 @@ about:
 
 ### Services [ serviceSection ]
 services:
-  enable: true
+  enable: false
   title: "Services"
   subtitle: "What I Do"
   items:
@@ -99,7 +109,7 @@ services:
 
 ### Pricing [ pricingSection ]
 pricing:
-  enable: true
+  enable: false
   title: "Pricing"
   subtitle: "My Plans"
   items:
@@ -165,23 +175,23 @@ resume:
   enable: true
   experience:
     title: "Experience"
-    subtitle: "Working with"
+    subtitle: "Career"
     items:
-      - year: "Present"
-        name: "The Turin <br />Olympics"
+      - year: "2018-Now"
+        name: "Rackspace Technology <br />|&nbsp; Network Security Engineer"
         text: "Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna."
 
-      - year: "2016-2018"
-        name: "Red <br />Drifting"
+      - year: "2015-2017"
+        name: "Rackspace Technology <br />|&nbsp; 2nd Line Support Analyst"
+        text: "Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna."
+ 
+      - year: "2013-2015"
+        name: "Rackspace Technology <br />|&nbsp; Data Centre Operations"
         text: "Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna."
 
-      - year: "2014-2016"
-        name: "World <br />Economy"
-        text: "Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna."
-
-      - year: "2012-2014"
-        name: "Art Director <br />Facedevs"
-        text: "Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna."
+     # - year: "2012-2014"
+     #   name: "Art Director <br />Facedevs"
+     #   text: "Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna."
 
   education:
     title: "Education"
@@ -201,7 +211,7 @@ resume:
 
 ### Skills [ skillSection ]
 skills:
-  enable: true
+  enable: false
   columns:
     - type: "default" #skills progress type - default, dotted, circles
       title: "Design Skills"
@@ -276,7 +286,7 @@ skills:
 
 ### Testimonials [ testimonialSection ]
 testimonials:
-  enable: true
+  enable: false
   title: "Reviews"
   subtitle: "What customers say"
   items:
@@ -302,7 +312,7 @@ testimonials:
 
 ### Clients [ clientSection ]
 clients:
-  enable: true
+  enable: false
   title: "Clients"
   subtitle: "My partners"
   items:
@@ -333,7 +343,7 @@ clients:
 ### Portfolio [ portfolioSection ]
 #items generates from dir /content/portfolio/*
 portfolio:
-  enable: true
+  enable: false
   title: "Portfolio"
   subtitle: "Latest works"
 
@@ -342,24 +352,18 @@ contacts:
   enable: true
   title: "Contact"
   subtitle: "Let's talk"
-  name: "Joe Wilson"
-  subname: "Consultant & Mentor"
-  signature: "Joe Wilson"
+  name: "Michael Saleem"
+  subname: "Network Security Engineer"
+  signature: "Michael ,,Saleem"
   list:
-    - label: "Age:"
-      value: "24"
-
-    - label: "Residence:"
-      value: "USA"
-
-    - label: "Freelance:"
-      value: "Available"
-
-    - label: "Address:"
-      value: "San Francisco"
+#   - label: "Age:"
+#     value: "36"
+#
+#   - label: "Residence:"
+#     value: "United Kingdom"
 
     - label: "Phone:"
-      value: "+1 256 254 84 56"
+      value: "+44 7572 425340"
 
     - label: "E-mail:"
-      value: "alejandroa@gmail.com"
+      value: "contact@michaelsaleem.me"

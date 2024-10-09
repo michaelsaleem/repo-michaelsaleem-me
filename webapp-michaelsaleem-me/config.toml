@@ -1,7 +1,7 @@
 # General Settings
 title = "Myour - One Page Resume CV Hugo Theme"
 baseURL = "https://www.michaelsaleem.me/" #YOUR SITE URL
-languageCode = "en-us"
+languageCode = "en-gb"
 theme = "myour"
 resourceDir = "resources"
 paginate = 6
@@ -13,81 +13,86 @@ DefaultContentLanguage = "en"
 [[menu.main]]
   identifier = "home"
   name = "Home"
-  url = "/"
+  url = "/index-3/"
   weight = 1
-  [[menu.main]]
-    identifier = "home-1"
-    parent = "home"
-    name = "Home 1"
-    url = "/"
-    weight = 1
-  [[menu.main]]
-    identifier = "home-2"
-    parent = "home"
-    name = "Home 2"
-    url = "/index-2/"
-    weight = 2
-  [[menu.main]]
-    identifier = "home-3"
-    parent = "home"
-    name = "Home 3"
-    url = "/index-3/"
-    weight = 3
-  [[menu.main]]
-    identifier = "home-slider"
-    parent = "home"
-    name = "Home Slider"
-    url = "/index-slider/"
-    weight = 4
-  [[menu.main]]
-    identifier = "home-video"
-    parent = "home"
-    name = "Home Video"
-    url = "/index-video/"
-    weight = 5
+#  [[menu.main]]
+#    identifier = "home-1"
+#    parent = "home"
+#    name = "Home 1"
+#    url = "/"
+#    weight = 1
+#  [[menu.main]]
+#    identifier = "home-2"
+#    parent = "home"
+#    name = "Home 2"
+#    url = "/index-2/"
+#    weight = 2
+#  [[menu.main]]
+#    identifier = "home-3"
+#    parent = "home"
+#    name = "Home 3"
+#    url = "/index-3/"
+#    weight = 3
+#  [[menu.main]]
+#    identifier = "home-slider"
+#    parent = "home"
+#    name = "Home Slider"
+#    url = "/index-slider/"
+#    weight = 4
+#  [[menu.main]]
+#    identifier = "home-video"
+#    parent = "home"
+#    name = "Home Video"
+#    url = "/index-video/"
+#    weight = 5
 [[menu.main]]
   identifier = "about"
   name = "About"
   url = "#section-about"
   weight = 2
 [[menu.main]]
-  identifier = "resume"
-  name = "Resume"
+  identifier = "experience"
+  name = "Experience"
   url = "#section-experience"
   weight = 3
 [[menu.main]]
-  identifier = "portfolio"
-  name = "Portfolio"
-  url = "#section-portfolio"
+  identifier = "Education"
+  name = "Education"
+  url = "#section-education"
   weight = 4
+#[[menu.main]]
+#  identifier = "portfolio"
+#  name = "Portfolio"
+#  url = "#section-portfolio"
+#  weight = 4
 [[menu.main]]
   identifier = "contacts"
-  name = "Contacts"
+  name = "Contact"
   url = "#section-contacts"
   weight = 5
-[[menu.main]]
-  identifier = "blog"
-  name = "Blog"
-  url = "/blog/"
-  weight = 6
-  [[menu.main]]
-    identifier = "pages-blog-list"
-    parent = "blog"
-    name = "Blog List"
-    url = "/blog/"
-    weight = 1
-  [[menu.main]]
-    identifier = "pages-blog-single"
-    parent = "blog"
-    name = "Blog Single"
-    url = "/blog/designer-conference-at-florida-2020/"
-    weight = 2
+#[[menu.main]]
+#  identifier = "blog"
+#  name = "Blog"
+#  url = "/blog/"
+#  weight = 6
+#  [[menu.main]]
+#    identifier = "pages-blog-list"
+#    parent = "blog"
+#    name = "Blog List"
+#    url = "/blog/"
+#    weight = 1
+#  [[menu.main]]
+#    identifier = "pages-blog-single"
+#    parent = "blog"
+#    name = "Blog Single"
+#    url = "/blog/designer-conference-at-florida-2020/"
+#    weight = 2
 
 # Main Settings
 [params]
-skinColor = "" #PREDEFINED COLOR SCHEMES: [ "beige", "blue", "brown", "green_light", "green", "orange", "purple", "red", "yellow_light", "yellow" ]
+skinColor = "yellow" #PREDEFINED COLOR SCHEMES: [ "beige", "blue", "brown", "green_light", "green", "orange", "purple", "red", "yellow_light", "yellow" ]
 dateFormat = "January 2, 2006"
-authorName = "Joé Wilson"
+authorName = "Michael Saleem"
 disqusComments = "test" #YOUR DISQUS COMMENTS SHORTNAME
 formspreeURL = "" #YOUR FORMSPREE URL
 googleAnalytics = "" #YOUR GOOGLE ANALYTICS CODE
@@ -95,8 +100,8 @@ googleAnalytics = "" #YOUR GOOGLE ANALYTICS CODE
 # Header Settings
 [params.header]
 logo_image = "images/logo.png"
-logo_text = "Joé <br />Wilson"
-logo_alt = "Joé Wilson"
+logo_text = "Michael <br />Saleem"
+logo_alt = "Michael Saleem"
 button_text = "Download CV"
 button_url = "files/Resume-Template.pdf"
 button_icon = "fas fa-download"
@@ -104,20 +109,25 @@ button_download = true
 
 # Social Settings
 [[params.social]]
-title = "Twitter"
-icon = "fab fa-twitter"
-url = "https://www.twitter.com/"
+title = "LinkedIn"
+icon = "fab fa-linkedin"
+url = "https://www.linkedin.com/in/michaelsaleem"
 weight = 1
-[[params.social]]
-title = "Dribbble"
-icon = "fab fa-dribbble"
-url = "https://www.dribbble.com/"
-weight = 2
-[[params.social]]
-title = "Behance"
-icon = "fab fa-behance"
-url = "https://www.behance.net/"
-weight = 3
+# [[params.social]]
+# title = "Twitter"
+# icon = "fab fa-twitter"
+# url = "https://www.twitter.com/"
+# weight = 2
+# [[params.social]]
+# title = "Dribbble"
+# icon = "fab fa-dribbble"
+# url = "https://www.dribbble.com/"
+# weight = 2
+# [[params.social]]
+# title = "Behance"
+# icon = "fab fa-behance"
+# url = "https://www.behance.net/"
+# weight = 3
 
 # Sidebar
 [params.sidebar]
