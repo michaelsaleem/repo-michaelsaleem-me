@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Myour - One Page Resume CV Hugo Theme</title>
-    <link>https://purple-sea-0ee893503.5.azurestaticapps.net/tags/</link>
+    <link>https://michaelsaleem.me/tags/</link>
     <description>Recent content in Tags on Myour - One Page Resume CV Hugo Theme</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 13 Jul 2020 13:06:26 +0600</lastBuildDate>
-    <atom:link href="https://purple-sea-0ee893503.5.azurestaticapps.net/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://michaelsaleem.me/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mobile</title>
-      <link>https://purple-sea-0ee893503.5.azurestaticapps.net/tags/mobile/</link>
+      <link>https://michaelsaleem.me/tags/mobile/</link>
       <pubDate>Mon, 13 Jul 2020 13:06:26 +0600</pubDate>
-      <guid>https://purple-sea-0ee893503.5.azurestaticapps.net/tags/mobile/</guid>
+      <guid>https://michaelsaleem.me/tags/mobile/</guid>
       <description></description>
     </item>
     <item>
       <title>Fun</title>
-      <link>https://purple-sea-0ee893503.5.azurestaticapps.net/tags/fun/</link>
+      <link>https://michaelsaleem.me/tags/fun/</link>
       <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
-      <guid>https://purple-sea-0ee893503.5.azurestaticapps.net/tags/fun/</guid>
+      <guid>https://michaelsaleem.me/tags/fun/</guid>
       <description></description>
     </item>
     <item>
       <title>Website</title>
-      <link>https://purple-sea-0ee893503.5.azurestaticapps.net/tags/website/</link>
+      <link>https://michaelsaleem.me/tags/website/</link>
       <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
-      <guid>https://purple-sea-0ee893503.5.azurestaticapps.net/tags/website/</guid>
+      <guid>https://michaelsaleem.me/tags/website/</guid>
       <description></description>
     </item>
   </channel>

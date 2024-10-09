@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Myour - One Page Resume CV Hugo Theme</title>
-    <link>https://purple-sea-0ee893503.5.azurestaticapps.net/categories/</link>
+    <link>https://michaelsaleem.me/categories/</link>
     <description>Recent content in Categories on Myour - One Page Resume CV Hugo Theme</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 13 Jul 2020 13:06:26 +0600</lastBuildDate>
-    <atom:link href="https://purple-sea-0ee893503.5.azurestaticapps.net/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://michaelsaleem.me/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Documentation</title>
-      <link>https://purple-sea-0ee893503.5.azurestaticapps.net/categories/documentation/</link>
+      <link>https://michaelsaleem.me/categories/documentation/</link>
       <pubDate>Mon, 13 Jul 2020 13:06:26 +0600</pubDate>
-      <guid>https://purple-sea-0ee893503.5.azurestaticapps.net/categories/documentation/</guid>
+      <guid>https://michaelsaleem.me/categories/documentation/</guid>
       <description></description>
     </item>
     <item>
       <title>Development</title>
-      <link>https://purple-sea-0ee893503.5.azurestaticapps.net/categories/development/</link>
+      <link>https://michaelsaleem.me/categories/development/</link>
       <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
-      <guid>https://purple-sea-0ee893503.5.azurestaticapps.net/categories/development/</guid>
+      <guid>https://michaelsaleem.me/categories/development/</guid>
       <description></description>
     </item>
     <item>
       <title>Travel</title>
-      <link>https://purple-sea-0ee893503.5.azurestaticapps.net/categories/travel/</link>
+      <link>https://michaelsaleem.me/categories/travel/</link>
       <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
-      <guid>https://purple-sea-0ee893503.5.azurestaticapps.net/categories/travel/</guid>
+      <guid>https://michaelsaleem.me/categories/travel/</guid>
       <description></description>
     </item>
   </channel>

@@ -1,6 +1,6 @@
 # General Settings
 title = "Myour - One Page Resume CV Hugo Theme"
-baseURL = "https://purple-sea-0ee893503.5.azurestaticapps.net/" #YOUR SITE URL
+baseURL = "https://michaelsaleem.me" #YOUR SITE URL
 languageCode = "en-us"
 theme = "myour"
 resourceDir = "resources"
