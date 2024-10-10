@@ -100,33 +100,62 @@ about:
 
 ### Services [ serviceSection ]
 services:
-  enable: false
-  title: "Services"
-  subtitle: "What I Do"
+  enable: true
+  title: "Certifications"
+  subtitle: "Validation of skills"
+  text: "blah"
   items:
-    - icon: "fas fa-brain"
-      name: "Economic <br />Science"
-      text: "Economics is a social science concerned with the production, consumption of goods and services."
+     - icon: "fas fa-certificate"
+       name: "PCNSE <br /><font size=2>Palo Alto Networks</font>"
+       text: "The PCNSE certification validates the knowledge and skills required for network security engineers who design, deploy, operate, manage, and troubleshoot Palo Alto Networks firewalls. PCNSE certified individuals have demonstrated in-depth knowledge of the Palo Alto Networks product portfolio and can make full use of it in the vast majority of implementations. The PCNSE validates that engineers can correctly deploy firewalls while leveraging the rest of the platform."
 
-    - icon: "fas fa-ad"
-      name: "Marketing <br />& Advertising"
-      text: "Advertising Management though is a complex process of employing various media to sell a product or service."
+     - icon: "fas fa-certificate"
+       name: "PCNSA <br /><font size=2>Palo Alto Networks</font>"
+       text: "The PCNSA certification validates the knowledge and skills required for network security administrators responsible for deploying and operating Palo Alto Networks firewalls. PCNSA certified individuals have demonstrated knowledge of the Palo Alto Networks NGFW feature set and in the Palo Alto Networks product portfolio core components. The PCNSA seeks to identify people who can operate Palo Alto Networks firewalls to protect networks from cutting-edge cyber threats."
 
-    - icon: "fab fa-chrome"
-      name: "Web <br />Development"
-      text: "The web development process includes: web design, web content, client-side / server-side scripting and network security configuration."
+     - icon: "fas fa-certificate"
+       name: "F5 CTS, DNS <br /><font size=2>F5 Networks</font>"
+       text: " People with this certification have the fundamental knowledge necessary to application delivery architects and application delivery engineers working with BIG-IP DNS, including the ability to understand the basic operation of the DNS protocol, deploy and test configurations, and troubleshoot and remedy common misconfigurations. These individuals also are able to explain the capabilities of DNS services to deploy applications globally."
 
-    - icon: "fas fa-headphones"
-      name: "Music <br />Writing"
-      text: "Sheet music is the basic form in which Western classical music is notated so that it can be learned and performed by solo singers."
+     - icon: "fas fa-certificate"
+       name: "F5 CTS, LTM <br /><font size=2>F5 Networks</font>"
+       text: "Identifies individuals qualified to design, implement, maintain, and troubleshoot advanced F5 product features to enhance the effectiveness of an application delivery network. They possess an understanding of underlying principles—from SSL-based VPN implementation to symmetric and asymmetric acceleration—and can draw on that insight to integrate BIG-IP LTM into existing networks as well as new implementations."
 
-    - icon: "fas fa-gamepad"
-      name: "Game <br />Development"
-      text: "Come Up With a Game Idea. An idea is the first thing that comes to mind when a game is being described before creating."
+     - icon: "fas fa-certificate"
+       name: "F5 CA <br /><font size=2>F5 Networks</font>"
+       text: "The F5 Certified! Administrator (F5-CA) designation is applied to individuals who possess knowledge and understanding of the concepts and technology-standards applicable to the day-to-day operations of F5 products in diverse environments. These individuals have a basic understanding of the fundamental concepts, configurations, and processes necessary to maintain a healthy installation, identify issues, and provide basic fault isolation to assist senior engineers in correcting malfunctions."
 
-    - icon: "fas fa-video"
-      name: "Photography <br />& Video"
-      text: "Sessions. If you are a photographer that spends most of the time in a portrait studio, you can charge for your session."
+     - icon: "fas fa-certificate"
+       name: "CCNA Security <br /><font size=2>Cisco Systems</font>"
+       text: "Verifies the skills needed to develop a security infrastructure, recognize threats and vulnerabilities to networks, and mitigate security threats. The CCNA Security curriculum emphasizes core security technologies, the installation, troubleshooting and monitoring of network devices to maintain integrity, confidentiality and availability of data and devices, and competency in the technologies that Cisco uses in its security structure."
+
+     - icon: "fas fa-certificate"
+       name: "CCNA Routing & Switching<br /><font size=2>Cisco Systems</font>"
+       text: "Earners of Cisco CCNA - Implementing and Administering Cisco Solutions (CCNA) have demonstrated knowledge and skills related to network fundamentals, network access, IP connectivity, IP services, security fundamentals, and automation and programmability."
+
+#    - icon: "fas fa-brain"
+#      name: "Economic <br />Science"
+#      text: "Economics is a social science concerned with the production, consumption of goods and services."
+#
+#    - icon: "fas fa-ad"
+#      name: "Marketing <br />& Advertising"
+#      text: "Advertising Management though is a complex process of employing various media to sell a product or service."
+#
+#    - icon: "fab fa-chrome"
+#      name: "Web <br />Development"
+#      text: "The web development process includes: web design, web content, client-side / server-side scripting and network security configuration."
+#
+#    - icon: "fas fa-headphones"
+#      name: "Music <br />Writing"
+#      text: "Sheet music is the basic form in which Western classical music is notated so that it can be learned and performed by solo singers."
+#
+#    - icon: "fas fa-gamepad"
+#      name: "Game <br />Development"
+#      text: "Come Up With a Game Idea. An idea is the first thing that comes to mind when a game is being described before creating."
+#
+#    - icon: "fas fa-video"
+#      name: "Photography <br />& Video"
+#      text: "Sessions. If you are a photographer that spends most of the time in a portrait studio, you can charge for your session."
 
 ### Pricing [ pricingSection ]
 pricing:
@@ -200,15 +229,20 @@ resume:
     items:
       - year: "2018-Now"
         name: "Rackspace Technology <br />|&nbsp; Network Security Architect"
-        text: "Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna."
+        text: "<p>Working on non-BAU work including fleet management, code testing, policies and standards, billable projects (i.e. complex work that falls ouside the normal realm of support).</p>
+        <p>I am also an escalation point for complex tickets and an F5 subject matter expert within the organisation.</p>"
 
-      - year: "2015-2017"
+      - year: "2015-2018"
+        name: "Rackspace Technology <br />|&nbsp; Network Security Engineer"
+        text: "Responsible for installing, configuring and troubleshooting firewalls and load balancers. Working on BAU tickets, answering customer calls and resolving issues in a time efficient manner."
+
+      - year: "2014-2015"
         name: "Rackspace Technology <br />|&nbsp; 2nd Line Support Analyst"
-        text: "Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna."
+        text: "Primarily responsible for responding to and solving ‘quick fix’ tickets. The first point of contact for customers calling in with queries and escalating to support teams where necessary."
  
-      - year: "2013-2015"
+      - year: "2013-2014"
         name: "Rackspace Technology <br />|&nbsp; Data Centre Operations"
-        text: "Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna."
+        text: "Building, configuring, deploying and troubleshooting with exposure to a vast array of server and network equipment (Dell PowerEdge, HP G1/G2, Cisco Catalyst, Nexus, ASA, Arista, BigIP F5, Brocade ADX, EMC VNX, NetApp)"
 
      # - year: "2012-2014"
      #   name: "Art Director <br />Facedevs"
@@ -260,84 +294,117 @@ resume:
 
 ### Skills [ skillSection ]
 skills:
-  enable: false
+  enable: true
   columns:
-    - type: "default" #skills progress type - default, dotted, circles
-      title: "Design Skills"
-      subtitle: "Creative ability"
+    - type: "dotted" #skills progress type - default, dotted, circles
+      title: "Technologies"
+      subtitle: "Hardware / Software"
       slug: "design"
       items:
-        - label: "Web Layout"
-          value: "90" #0-100 progress in %
-          text: "Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh."
+        - label: "F5 Technology"
+          value: "0" #0-100 progress in %
+          text: "• BIG-IP rSeries<br />• BIG-IP iSeries<br /> •	BIG-IP Standard Series<br />•	BIG-IP Next<br />•	F5 Distributed Cloud (F5XC)"
 
-        - label: "Illustrations"
-          value: "70" #0-100 progress in %
-          text: "Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh."
+        - label: "Cisco Technology"
+          value: "0" #0-100 progress in %
+          text: "•	Cisco ASA Standard Series<br /> •	Cisco ASA X Series<br /> •	Cisco ASA with SFR<br /> •	Cisco Firepower Threat Defence (FTD) <br /> •	Cisco Firepower Device Manager (FDM)<br /> •	Cisco Firepower Management Centre (FMC)<br /> •	Cisco Defence Orchestrator (CDO)<br /> •	Cisco 2960 (G/S/X)<br /> •	Cisco Catalyst 6500 Series<br /> •	Cisco Nexus (7K/9K)<br />"
 
-        - label: "Photoshop"
-          value: "95" #0-100 progress in %
-          text: "Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh."
+        - label: "Palo Alto Technology"
+          value: "0" #0-100 progress in %
+          text: "•	Palo Alto NGFW<br /> •	Panorama<br /> •	Expedition<br />"
 
-        - label: "Graphic Design"
-          value: "85" #0-100 progress in %
-          text: "Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh."
+        - label: "Citrix Technology"
+          value: "0" #0-100 progress in %
+          text: "• Citrix NetScaler VPX"
 
-    - type: "dotted" #skills progress type - default, dotted, circles
-      title: "Language Skills"
-      subtitle: "Reading and writing"
-      slug: "lang"
-      items:
-        - label: "English"
-          value: "90" #0-100 progress in %
-          text: "Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh."
+        - label: "Brocade Technology"
+          value: "0" #0-100 progress in %
+          text: "• Brocade ADX 1000"
 
-        - label: "German"
-          value: "70" #0-100 progress in %
-          text: "Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh."
+        - label: "Juniper Technology"
+          value: "0" #0-100 progress in %
+          text: "•	SRX220/SRX240"
 
-        - label: "Italian"
-          value: "55" #0-100 progress in %
-          text: "Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh."
+        - label: "Other Technology"
+          value: "0" #0-100 progress in %
+          text: "•	Cloudflare CDN<br /> •	Alert Logic Threat Manager<br /> •	Alert Logic Log Manager<br /> •	Imperva SecureSphere WAF<br /> •	Prometheus<br /> •	Grafana<br />"
 
-        - label: "French"
-          value: "85" #0-100 progress in %
-          text: "Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh."
-
-    - type: "circles" #skills progress type - default, dotted, circles
-      title: "Coding Skills"
-      subtitle: "Developing on"
-      slug: "code"
-      items:
-        - label: "WordPress"
-          value: "90" #0-100 progress in %
-          text: "Etiam sit amet orci eget eros faucibus tincidunt."
-
-        - label: "PHP, MYSQL"
-          value: "75" #0-100 progress in %
-          text: "Etiam sit amet orci eget eros faucibus tincidunt."
-
-        - label: "JavaScript"
-          value: "85" #0-100 progress in %
-          text: "Etiam sit amet orci eget eros faucibus tincidunt."
-
-        - label: "Angular"
-          value: "80" #0-100 progress in %
-          text: "Etiam sit amet orci eget eros faucibus tincidunt."
-
-        - label: "HTML, CSS"
-          value: "95" #0-100 progress in %
-          text: "Etiam sit amet orci eget eros faucibus tincidunt."
-
-        - label: "Python"
-          value: "90" #0-100 progress in %
-          text: "Etiam sit amet orci eget eros faucibus tincidunt."
+#    - type: "default" #skills progress type - default, dotted, circles
+#      title: "Design Skills"
+#      subtitle: "Creative ability"
+#      slug: "design"
+#      items:
+#        - label: "Web Layout"
+#          value: "90" #0-100 progress in %
+#          text: "Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh."
+#
+#        - label: "Illustrations"
+#          value: "70" #0-100 progress in %
+#          text: "Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh."
+#
+#        - label: "Photoshop"
+#          value: "95" #0-100 progress in %
+#          text: "Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh."
+#
+#        - label: "Graphic Design"
+#          value: "85" #0-100 progress in %
+#          text: "Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh."
+#
+#    - type: "dotted" #skills progress type - default, dotted, circles
+#      title: "Language Skills"
+#      subtitle: "Reading and writing"
+#      slug: "lang"
+#      items:
+#        - label: "English"
+#          value: "90" #0-100 progress in %
+#          text: "Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh."
+#
+#        - label: "German"
+#          value: "70" #0-100 progress in %
+#          text: "Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh."
+#
+#        - label: "Italian"
+#          value: "55" #0-100 progress in %
+#          text: "Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh."
+#
+#        - label: "French"
+#          value: "85" #0-100 progress in %
+#          text: "Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh."
+#
+#    - type: "circles" #skills progress type - default, dotted, circles
+#      title: "Coding Skills"
+#      subtitle: "Developing on"
+#      slug: "code"
+#      items:
+#        - label: "WordPress"
+#          value: "90" #0-100 progress in %
+#          text: "Etiam sit amet orci eget eros faucibus tincidunt."
+#
+#        - label: "PHP, MYSQL"
+#          value: "75" #0-100 progress in %
+#          text: "Etiam sit amet orci eget eros faucibus tincidunt."
+#
+#        - label: "JavaScript"
+#          value: "85" #0-100 progress in %
+#          text: "Etiam sit amet orci eget eros faucibus tincidunt."
+#
+#        - label: "Angular"
+#          value: "80" #0-100 progress in %
+#          text: "Etiam sit amet orci eget eros faucibus tincidunt."
+#
+#        - label: "HTML, CSS"
+#          value: "95" #0-100 progress in %
+#          text: "Etiam sit amet orci eget eros faucibus tincidunt."
+#
+#        - label: "Python"
+#          value: "90" #0-100 progress in %
+#          text: "Etiam sit amet orci eget eros faucibus tincidunt."
 
 ### Testimonials [ testimonialSection ]
 testimonials:
   enable: true
   title: "Reviews"
-  subtitle: "What customers say"
+  subtitle: "What customers / colleagues say"
   items:
     - image: "images/testimonials/Face-Avatars_29.png"
       name: "Sheraz Hussain"
