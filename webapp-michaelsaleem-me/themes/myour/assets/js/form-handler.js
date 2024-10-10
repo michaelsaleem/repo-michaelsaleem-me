@@ -12,7 +12,7 @@ async function handleSubmit(event) {
     }
   }).then(response => {
     if (response.ok) {
-      status.innerHTML = "<br />Thanks for your message bot!<br />(If you're not a bot, then I do apologise xD)<br /><br />I will review your message and get back to you within 48 hours.";
+      status.innerHTML = "<br />Thanks for your message, bot!<br />(If you're not a bot, then I do apologise 😆)<br /><br />I will review your message and get back to you within 48 hours.";
       status.style.display = 'block';
       form.reset()
     } else {
