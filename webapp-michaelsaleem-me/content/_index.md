@@ -1,5 +1,4 @@
 ---
 title: Home
-bg_type: "image-3"
+bg_type: "image-1"
 ---
-git
