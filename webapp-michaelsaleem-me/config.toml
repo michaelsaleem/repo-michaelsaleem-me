@@ -103,7 +103,7 @@ logo_image = "images/logo.png"
 logo_text = "Michael Saleem"
 logo_alt = "Michael Saleem"
 button_text = "Download CV"
-button_url = "files/michael_saleem_2024g.pdf"
+button_url = "files/michael_saleem_2024.pdf"
 button_icon = "fas fa-download"
 button_download = true
 
