@@ -25,7 +25,8 @@ hero_video:
   # video: "https://youtu.be/vtKXWn9IUL4"
   #video: "https://youtu.be/YyhPNzXbM7s"
   #video: "https://youtu.be/9wbTmtGr0IY"
-  video: "https://youtu.be/NMe71q_w-RU&loop=0"
+  #video: "https://youtu.be/NMe71q_w-RU"
+  video: "https://youtu.be/qOZCEfXME6c"
   # video: "https://youtu.be/S4L8T2kFFck"
 
 ### Hero Slider
@@ -41,12 +42,14 @@ started:
   enable: true
   title: "Michael <br />Saleem"
   typed:
-    - "Network Security"
-    - "F5 BIG-IP Loadbalancers"
-    - "Palo Alto Next Generation Firewalls"
-    - "Cisco Firepower Next Generation Firewalls"
-    - "Cisco ASA Firewalls"
-  text: "Hello! I am a Network Security Engineer from the UK. <br />If you are interested in my skills, please reach out to me."
+    - "Are you in need of a Network Security Engineer?"
+    - "If so, why not take a look at my CV?"
+    # - "Network Security"
+    # - "F5 BIG-IP Loadbalancers"
+    # - "Palo Alto Next Generation Firewalls"
+    # - "Cisco Firepower Next Generation Firewalls"
+    # - "Cisco ASA Firewalls"
+  text: "Hello recruiters! I am a Network Security Engineer from the UK. <br />If you are interested in my skills, please reach out to me."
   # text: "Hello! I am Web Developer from United States, New York. I have rich experience in web site design and building, also I am good at wordpress. I love to talk with you about our unique."
   button:
     text: "Contact Me"

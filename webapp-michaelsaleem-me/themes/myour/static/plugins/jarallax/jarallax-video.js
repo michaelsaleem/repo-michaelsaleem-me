@@ -918,7 +918,7 @@ var VideoWorker = function () {
 
                         // loop
                         if (self.options.loop) {
-                            self.$video.loop = true;
+                            self.$video.loop = false;
                         }
 
                         // autoplay enable on mobile devices
