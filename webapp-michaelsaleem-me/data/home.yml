@@ -49,7 +49,7 @@ started:
     # - "Palo Alto Next Generation Firewalls"
     # - "Cisco Firepower Next Generation Firewalls"
     # - "Cisco ASA Firewalls"
-  text: "Hello recruitment professionals! <br />I am a Network Security Engineer based in the UK. <br /><br />Scroll down to learn more about the value I can bring to your organisation."
+  text: "Hello recruitment professionals! <br />I am a Network Security Engineer based in the UK. <br /><br />Scroll down to learn more..."
   # text: "Hello! I am Web Developer from United States, New York. I have rich experience in web site design and building, also I am good at wordpress. I love to talk with you about our unique."
   button:
     text: "Contact Me"
@@ -58,27 +58,33 @@ started:
 ### About [ aboutSection ]
 about:
   enable: true
-  title: "About Myself"
-  subtitle: "Why you should pick me"
+  title: "Why Select Me?"
+  subtitle: "CliftonStrengths: Achiever, Focus, Futuristic, Harmony, Learner,"
   text: "<p>Pellentesque posuere. Praesent turpis. Aenean posuere, tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus. Donec elit libero, sodales nec, volutpat a, suscipit non, turpis.</p><p>Pellentesque posuere. Praesent turpis. Aenean posuere, tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus. Donec elit libero, sodales nec, volutpat a, suscipit non, turpis. Donec elit libero, sodales nec, volutpat a, suscipit non, turpis.</p>"
   list:
-    - label: "Age"
-      value: "24"
+     - label: "Top 5 CliftonStrengths"
+       value: "Achiever, Blah"
 
-    - label: "Residence"
-      value: "USA"
-
-    - label: "Freelance"
-      value: "Available"
-
-    - label: "Address"
-      value: "San Francisco"
-
-    - label: "Phone"
-      value: "+1 256 254 84 56"
-
-    - label: "E-mail"
-      value: "alejandroa@gmail.com"
+     - label: "CliftonStrengths"
+       value: "Blah"
+    
+#    - label: "Age"
+#      value: "24"
+#
+#    - label: "Residence"
+#      value: "USA"
+#
+#    - label: "Freelance"
+#      value: "Available"
+#
+#    - label: "Address"
+#      value: "San Francisco"
+#
+#    - label: "Phone"
+#      value: "+1 256 254 84 56"
+#
+#    - label: "E-mail"
+#      value: "alejandroa@gmail.com"
 
 ### Services [ serviceSection ]
 services:
@@ -212,6 +218,30 @@ resume:
         name: "Web Design Course <br />London"
         text: "Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna."
 
+  education:
+    title: "CliftonStrengths"
+    subtitle: "Top 5 Strengths"
+    items:
+      - year: "*"
+        name: "Achiever"
+        text: "People exceptionally talented in the Achiever theme work hard and possess a great deal of stamina. They take immense satisfaction in being busy and productive."
+
+      - year: "*"
+        name: "Focus"
+        text: "People exceptionally talented in the Focus theme can take a direction, follow through and make the corrections necessary to stay on track. They prioritize, then act."
+
+      - year: "*"
+        name: "Futuristic"
+        text: "People exceptionally talented in the Futuristic theme are inspired by the future and what could be. They energize others with their visions of the future."
+
+      - year: "*"
+        name: "Harmony"
+        text: "People exceptionally talented in the Harmony theme look for consensus. They don't enjoy conflict; rather, they seek areas of agreement."
+
+      - year: "*"
+        name: "Learner"
+        text: "People exceptionally talented in the Learner theme have a great desire to learn and want to continuously improve. The process of learning, rather than the outcome, excites them."
+
 ### Skills [ skillSection ]
 skills:
   enable: false
@@ -289,29 +319,29 @@ skills:
 
 ### Testimonials [ testimonialSection ]
 testimonials:
-  enable: false
+  enable: true
   title: "Reviews"
   subtitle: "What customers say"
   items:
     - image: "images/testimonials/rev1.png"
-      name: "Joseph Mackey"
-      role: "Architect"
-      text: "Excellent all around! What stood out most was Jake's excellent service. He made sure our order was placed in time, even though we were ordering on a holiday."
+      name: "Sheraz Hussain"
+      role: "Network Operations Engineer"
+      text: "Michael is a great Network Engineer, during his time at Rackspace he provided daily support for our network infrastructure which was very complex and required great attention to detail. He would resolve tickets for RICS on a daily basis with tremendous speed and efficiency, at times he would resolve issues for us that other engineers would have difficulty resolving.<br /><br />He has exceptionally good customer service skills and is able to communicate complex technical issues into simple English for the non technical user, as a client of Rackspace there was a feeling that the issue would get dealt with in the best possible way whenever Michael was assigned the ticket."
 
     - image: "images/testimonials/rev2.png"
-      name: "James Green"
-      role: "Art Director"
-      text: "Excellent all around! What stood out most was Jake's excellent service. He made sure our order was placed in time, even though we were ordering on a holiday."
+      name: "Salman Malik"
+      role: "Entrepreneur"
+      text: "Michael is a very friendly, highly motivated individual and an excellent team player.<br /><br />Not only did Michel demonstrate a plethora of technical skills, but his leadership was a great inspiration for a small unit."
 
-    - image: "images/testimonials/rev1.png"
-      name: "Joseph Mackey"
-      role: "Architect"
-      text: "Excellent all around! What stood out most was Jake's excellent service. He made sure our order was placed in time, even though we were ordering on a holiday."
-
-    - image: "images/testimonials/rev2.png"
-      name: "James Green"
-      role: "Art Director"
-      text: "Excellent all around! What stood out most was Jake's excellent service. He made sure our order was placed in time, even though we were ordering on a holiday."
+#    - image: "images/testimonials/rev1.png"
+#      name: "Joseph Mackey"
+#      role: "Architect"
+#      text: "Excellent all around! What stood out most was Jake's excellent service. He made sure our order was placed in time, even though we were ordering on a holiday."
+#
+#    - image: "images/testimonials/rev2.png"
+#      name: "James Green"
+#      role: "Art Director"
+#      text: "Excellent all around! What stood out most was Jake's excellent service. He made sure our order was placed in time, even though we were ordering on a holiday."
 
 ### Clients [ clientSection ]
 clients:
@@ -364,6 +394,21 @@ contacts:
 #
 #   - label: "Residence:"
 #     value: "United Kingdom"
+
+    - label: "Hobbies"
+      value: "Cinema, Photography"
+
+    - label: "Interests"
+      value: "Health, Personal Finance"
+
+    - label: "Favourite Film"
+      value: "Training Day"
+
+    - label: "Favourite Sport"
+      value: "Football (Soccer)"
+
+    - label: "Location:"
+      value: "Bucks, United Kingdom"
 
     - label: "Phone:"
       value: "+44 7572 425340"

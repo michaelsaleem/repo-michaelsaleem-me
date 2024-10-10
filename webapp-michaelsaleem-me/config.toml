@@ -94,7 +94,7 @@ skinColor = "yellow" #PREDEFINED COLOR SCHEMES: [ "beige", "blue", "brown", "gre
 dateFormat = "January 2, 2006"
 authorName = "Michael Saleem"
 disqusComments = "test" #YOUR DISQUS COMMENTS SHORTNAME
-formspreeURL = "" #YOUR FORMSPREE URL
+formspreeURL = "https://formspree.io/f/xyzygqej" #YOUR FORMSPREE URL
 googleAnalytics = "" #YOUR GOOGLE ANALYTICS CODE
 
 # Header Settings
@@ -113,6 +113,13 @@ title = "LinkedIn"
 icon = "fab fa-linkedin"
 url = "https://www.linkedin.com/in/michaelsaleem"
 weight = 1
+
+[[params.social]]
+title = "GitHub"
+icon = "fab fa-github"
+url = "https://github.com/michaelsaleem"
+weight = 2
+
 # [[params.social]]
 # title = "Twitter"
 # icon = "fab fa-twitter"

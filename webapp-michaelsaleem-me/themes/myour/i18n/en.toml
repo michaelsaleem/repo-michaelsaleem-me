@@ -38,7 +38,7 @@ other = "Comments"
 other = "Full Name"
 
 [yourFullName]
-other = "e.g. John Smith"
+other = "e.g. Alice / Bob / Mallory"
 
 [emailAddress]
 other = "Email Address"
