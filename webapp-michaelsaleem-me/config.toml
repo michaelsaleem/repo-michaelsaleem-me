@@ -57,7 +57,7 @@ DefaultContentLanguage = "en"
   weight = 3
 [[menu.main]]
   identifier = "Education"
-  name = "Education"
+  name = "Strengths"
   url = "#section-education"
   weight = 4
 #[[menu.main]]
