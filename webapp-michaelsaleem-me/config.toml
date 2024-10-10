@@ -50,15 +50,15 @@ DefaultContentLanguage = "en"
   name = "About"
   url = "#section-about"
   weight = 2
+  [[menu.main]]
+  identifier = "certifications"
+  name = "Certifications"
+  url = "#section-certifications"
+  weight = 3
 [[menu.main]]
   identifier = "experience"
   name = "Experience"
   url = "#section-experience"
-  weight = 3
-[[menu.main]]
-  identifier = "Education"
-  name = "Strengths"
-  url = "#section-education"
   weight = 4
 #[[menu.main]]
 #  identifier = "portfolio"
