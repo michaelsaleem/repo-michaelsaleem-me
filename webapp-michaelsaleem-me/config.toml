@@ -70,11 +70,11 @@ DefaultContentLanguage = "en"
   name = "Contact"
   url = "#section-contacts"
   weight = 5
-#[[menu.main]]
-#  identifier = "blog"
-#  name = "Blog"
-#  url = "/blog/"
-#  weight = 6
+[[menu.main]]
+  identifier = "blog"
+  name = "Blog"
+  url = "https://www.michaelsaleem.co.uk"
+  weight = 6
 #  [[menu.main]]
 #    identifier = "pages-blog-list"
 #    parent = "blog"
