@@ -95,7 +95,7 @@ dateFormat = "January 2, 2006"
 authorName = "Michael Saleem"
 disqusComments = "test" #YOUR DISQUS COMMENTS SHORTNAME
 formspreeURL = "https://formspree.io/f/xyzygqej" #YOUR FORMSPREE URL
-googleAnalytics = "" #YOUR GOOGLE ANALYTICS CODE
+googleAnalytics = "G-VETYFG1L2H" #YOUR GOOGLE ANALYTICS CODE
 
 # Header Settings
 [params.header]
