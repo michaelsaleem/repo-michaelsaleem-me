@@ -142,10 +142,6 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/_index-msaleem-pc/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>http://localhost:1313/portfolio/minimal-poster-frame/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

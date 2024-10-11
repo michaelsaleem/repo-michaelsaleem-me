@@ -72,7 +72,7 @@ DefaultContentLanguage = "en"
   weight = 5
 [[menu.main]]
   identifier = "blog"
-  name = "Blog"
+  name = "// blog"
   url = "https://www.michaelsaleem.co.uk"
   weight = 6
 #  [[menu.main]]
