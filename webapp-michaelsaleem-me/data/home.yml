@@ -493,8 +493,5 @@ contacts:
     - label: "Location:"
       value: "Bucks, United Kingdom"
 
-    - label: "Phone:"
-      value: "+44 7572 425340"
-
     - label: "E-mail:"
-      value: "contact@michaelsaleem.me"
+      value: "jobs@michaelsaleem.me"
